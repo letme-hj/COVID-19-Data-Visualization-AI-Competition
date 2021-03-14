@@ -11,4 +11,5 @@ Haeji Jung, Kyuri Kim, Jihyun Kim, Wonjin Oh, Seongon Jo<br>
 32 votes, 10th place (14 Mar 2021)
 
 ### URL
-https://dacon.io/codeshare/1057
+- competition https://dacon.io/codeshare/1057
+- presentation https://youtu.be/A3fhOsjQbo0
