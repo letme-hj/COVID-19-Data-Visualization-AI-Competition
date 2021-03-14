@@ -8,7 +8,7 @@ Submission for COVID-19 data visualization AI competition
 Haeji Jung, Kyuri Kim, Jihyun Kim, Wonjin Oh, Seongon Jo<br>
 
 ### Result
-32 votes, 10th place (14 Mar 2021)
+32 votes, 10th place(Public) (14 Mar 2021)
 
 ### URL
 - competition https://dacon.io/codeshare/1057
